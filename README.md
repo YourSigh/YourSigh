@@ -1,7 +1,7 @@
 ## 绿桶
 🌱 I’m currently learning ReactNative
 
-📫 How to reach me: [1325285734@qq.com](1325285734@qq.com)
+📫 How to reach me: <1325285734@qq.com>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourSigh)](https://github.com/anuraghazra/github-readme-stats)
 
