@@ -1,4 +1,12 @@
-## Hi there 👋
+## 绿桶
+🌱 I’m currently learning ReactNative
+
+📫 How to reach me: [1325285734@qq.com](1325285734@qq.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourSigh)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourSigh&layout=compact)
+
 
 <!--
 **YourSigh/YourSigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
